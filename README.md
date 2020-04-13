@@ -9,3 +9,7 @@ notebook uses MNIST to train a network for classifying digits. It is clearly
 not as accurate as using avaiable TensorFlow layers, but it is a good 
 example that illustrates how to construct custom models that can perform
 things like bypassing layers, combining different layer outputs, etc.
+
+The notebook is heavily documented to explain how things work, with the 
+hope that it might, one day, help someone build a custom model using 
+TensorFlow variables!
